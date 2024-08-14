@@ -1,7 +1,7 @@
 #For the data format, please refer to https://docs.ultralytics.com/datasets/segment/coco/
 
-train: /content/gdrive/MyDrive/iSAID_SAM/train/images
-val: /content/gdrive/MyDrive/iSAID_SAM/train/images
+train: /kaggle/input/isaid-sam/iSAID_SAM/train/images
+val: /kaggle/input/isaid-sam/iSAID_SAM/train/images
 
 nc: 15
 # Classes
