@@ -1,0 +1,24 @@
+#For the data format, please refer to https://docs.ultralytics.com/datasets/segment/coco/
+
+train: /content/gdrive/MyDrive/iSAID_SAM/train/images
+val: /content/gdrive/MyDrive/iSAID_SAM/train/images
+
+nc: 15
+# Classes
+names:
+  0: 小型车辆
+  1: 大型车辆
+  2: 飞机
+  3: 船只
+  4: 游泳池
+  5: 港口
+  6: 网球场
+  7: 游泳池
+  8: 跑道
+  9: 足球场
+  10: 棒球场
+  11: 桥梁
+  12: 篮球场
+  13: 环形交叉路口
+  14: 直升机
+
